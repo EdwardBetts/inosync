@@ -120,5 +120,5 @@ but uses a lot less (nasty) magic to parse rsync excludes and shared www
 directories. Additionally inosync has no limitation on filename size and number
 of active watchpoints.
 
-A comparision to other approaches like DRBD, incron and FUSE can be found at
+A comparison to other approaches like DRBD, incron and FUSE can be found at
 lsyncds project page, mentioned above.
